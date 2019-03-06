@@ -1,0 +1,13 @@
+C:\Repo\CountryResource\CountryResource\bin\Debug\netcoreapp2.2\CountryResource.deps.json
+C:\Repo\CountryResource\CountryResource\bin\Debug\netcoreapp2.2\CountryResource.runtimeconfig.json
+C:\Repo\CountryResource\CountryResource\bin\Debug\netcoreapp2.2\CountryResource.runtimeconfig.dev.json
+C:\Repo\CountryResource\CountryResource\bin\Debug\netcoreapp2.2\CountryResource.dll
+C:\Repo\CountryResource\CountryResource\bin\Debug\netcoreapp2.2\CountryResource.pdb
+C:\Repo\CountryResource\CountryResource\obj\Debug\netcoreapp2.2\CountryResource.csproj.CoreCompileInputs.cache
+C:\Repo\CountryResource\CountryResource\obj\Debug\netcoreapp2.2\CountryResource.RazorAssemblyInfo.cache
+C:\Repo\CountryResource\CountryResource\obj\Debug\netcoreapp2.2\CountryResource.RazorAssemblyInfo.cs
+C:\Repo\CountryResource\CountryResource\obj\Debug\netcoreapp2.2\CountryResource.AssemblyInfoInputs.cache
+C:\Repo\CountryResource\CountryResource\obj\Debug\netcoreapp2.2\CountryResource.AssemblyInfo.cs
+C:\Repo\CountryResource\CountryResource\obj\Debug\netcoreapp2.2\CountryResource.RazorTargetAssemblyInfo.cache
+C:\Repo\CountryResource\CountryResource\obj\Debug\netcoreapp2.2\CountryResource.dll
+C:\Repo\CountryResource\CountryResource\obj\Debug\netcoreapp2.2\CountryResource.pdb

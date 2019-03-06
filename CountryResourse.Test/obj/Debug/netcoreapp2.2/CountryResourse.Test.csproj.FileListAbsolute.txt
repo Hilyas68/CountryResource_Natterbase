@@ -1,0 +1,17 @@
+C:\Repo\CountryResource\CountryResourse.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Repo\CountryResource\CountryResourse.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Repo\CountryResource\CountryResourse.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Repo\CountryResource\CountryResourse.Test\bin\Debug\netcoreapp2.2\CountryResourse.Test.deps.json
+C:\Repo\CountryResource\CountryResourse.Test\bin\Debug\netcoreapp2.2\CountryResourse.Test.runtimeconfig.json
+C:\Repo\CountryResource\CountryResourse.Test\bin\Debug\netcoreapp2.2\CountryResourse.Test.runtimeconfig.dev.json
+C:\Repo\CountryResource\CountryResourse.Test\bin\Debug\netcoreapp2.2\CountryResourse.Test.dll
+C:\Repo\CountryResource\CountryResourse.Test\bin\Debug\netcoreapp2.2\CountryResourse.Test.pdb
+C:\Repo\CountryResource\CountryResourse.Test\bin\Debug\netcoreapp2.2\CountryResource.dll
+C:\Repo\CountryResource\CountryResourse.Test\bin\Debug\netcoreapp2.2\CountryResource.pdb
+C:\Repo\CountryResource\CountryResourse.Test\obj\Debug\netcoreapp2.2\CountryResourse.Test.csprojAssemblyReference.cache
+C:\Repo\CountryResource\CountryResourse.Test\obj\Debug\netcoreapp2.2\CountryResourse.Test.csproj.CoreCompileInputs.cache
+C:\Repo\CountryResource\CountryResourse.Test\obj\Debug\netcoreapp2.2\CountryResourse.Test.AssemblyInfoInputs.cache
+C:\Repo\CountryResource\CountryResourse.Test\obj\Debug\netcoreapp2.2\CountryResourse.Test.AssemblyInfo.cs
+C:\Repo\CountryResource\CountryResourse.Test\obj\Debug\netcoreapp2.2\CountryResourse.Test.csproj.CopyComplete
+C:\Repo\CountryResource\CountryResourse.Test\obj\Debug\netcoreapp2.2\CountryResourse.Test.dll
+C:\Repo\CountryResource\CountryResourse.Test\obj\Debug\netcoreapp2.2\CountryResourse.Test.pdb
