@@ -99,6 +99,11 @@ namespace CountryResource
                     TermsOfService = "None",
                     Contact = new Contact() { Name = "", Email = "", Url = "" }
                 });
+
+                c.AddSecurityDefinition("Bearer", new ApiKeyScheme { In = "header", Description = "Please enter JWT with Bearer into field", Name = "Authorization", Type = "apiKey" });
+                c.AddSecurityRequirement(new Dictionary<string, IEnumerable<string>> {
+                { "Bearer", Enumerable.Empty<string>() },
+            });
             });
         }
 
@@ -140,6 +145,7 @@ namespace CountryResource
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Country v1");
             });
+
         }
     }
 }
